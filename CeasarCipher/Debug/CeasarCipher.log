@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\C++\nauka\CeasarCipher\CeasarCipher\main.cpp(19,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\C++\nauka\CeasarCipher\CeasarCipher\main.cpp(40,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\C++\nauka\CeasarCipher\CeasarCipher\main.cpp(73,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\C++\nauka\CeasarCipher\CeasarCipher\main.cpp(93,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  CeasarCipher.vcxproj -> E:\C++\nauka\CeasarCipher\Debug\CeasarCipher.exe
