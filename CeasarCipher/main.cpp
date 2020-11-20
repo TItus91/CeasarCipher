@@ -115,5 +115,6 @@ int main()
 {
 
     // zmiana w github
+    //cos tam jeszcze dopisze
 
 }
