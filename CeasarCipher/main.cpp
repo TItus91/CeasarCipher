@@ -113,12 +113,7 @@ public:
 
 int main()
 {
-    int x = 5, y = 2;
-    if (x & y)
-    {
-        std::cout << "a";
-    }
-    else
-        std::cout << "b";
+
+    // zmiana w github
 
 }
